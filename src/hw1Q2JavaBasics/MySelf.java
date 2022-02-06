@@ -8,7 +8,7 @@ package hw1Q2JavaBasics;
  */
 public class MySelf {
 	// Main method is entry point in java
-	public static void main(String[] args) {
+	public static void main(String[] args) {     //this is main method
 		System.out.println("Eunib-Rabby Reza");
 	}
 
